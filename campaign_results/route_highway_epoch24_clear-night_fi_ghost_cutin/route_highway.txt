@@ -13,7 +13,7 @@
                     "collisions_pedestrian": [],
                     "collisions_vehicle": [],
                     "outside_route_lanes": [
-                        "Agent went outside its route lanes for about 55.93 meters (43.01% of the completed route)"
+                        "Agent went outside its route lanes for about 54.93 meters (42.24% of the completed route)"
                     ],
                     "red_light": [],
                     "route_dev": [],
@@ -22,14 +22,14 @@
                     "vehicle_blocked": []
                 },
                 "meta": {
-                    "duration_game": 23.325000347569585,
-                    "duration_system": 143.42998886108398,
+                    "duration_game": 23.275000346824527,
+                    "duration_system": 133.13424801826477,
                     "route_length": 131.56012567009267
                 },
                 "route_id": "RouteScenario_0",
                 "scores": {
-                    "score_composed": 56.99265869756833,
-                    "score_penalty": 0.5699265869756833,
+                    "score_composed": 57.76160219925902,
+                    "score_penalty": 0.5776160219925902,
                     "score_route": 100.0
                 },
                 "status": "Completed"
