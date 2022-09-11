@@ -11,7 +11,9 @@
                 "infractions": {
                     "collisions_layout": [],
                     "collisions_pedestrian": [],
-                    "collisions_vehicle": [],
+                    "collisions_vehicle": [
+                        "Agent collided against object with type=vehicle.tesla.model3 and id=1177 at (x=193.155, y=-21.789, z=0.035)"
+                    ],
                     "outside_route_lanes": [],
                     "red_light": [],
                     "route_dev": [],
@@ -20,17 +22,17 @@
                     "vehicle_blocked": []
                 },
                 "meta": {
-                    "duration_game": 18.82500028051436,
-                    "duration_system": 127.69979858398438,
+                    "duration_game": 10.125000150874257,
+                    "duration_system": 86.63475441932678,
                     "route_length": 131.56012567009267
                 },
                 "route_id": "RouteScenario_0",
                 "scores": {
-                    "score_composed": 100.0,
-                    "score_penalty": 1.0,
-                    "score_route": 100.0
+                    "score_composed": 29.356194254326688,
+                    "score_penalty": 0.6,
+                    "score_route": 48.92699042387782
                 },
-                "status": "Completed"
+                "status": "Failed"
             }
         ]
     },

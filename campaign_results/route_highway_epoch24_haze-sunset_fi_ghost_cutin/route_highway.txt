@@ -20,8 +20,8 @@
                     "vehicle_blocked": []
                 },
                 "meta": {
-                    "duration_game": 19.650000292807817,
-                    "duration_system": 105.40194535255432,
+                    "duration_game": 19.10000028461218,
+                    "duration_system": 159.67581915855408,
                     "route_length": 131.56012567009267
                 },
                 "route_id": "RouteScenario_0",
